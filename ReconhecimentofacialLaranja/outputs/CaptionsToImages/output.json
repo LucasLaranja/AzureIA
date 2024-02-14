@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "ffdf5400-4a16-4cef-9916-0731b0aa7d88",
+  "content-length": "152",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a dog eating from a bowl",
+    "confidence": 0.852196216583252
+  },
+  "metadata": {
+    "width": 4736,
+    "height": 3157
+  }
+}

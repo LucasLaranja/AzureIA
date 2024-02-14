@@ -1,0 +1,8 @@
+Os atributos detectatos para image03.jpg quanto a extração
+de texto de imagens obteve o seguinte resultado;
+
+
+ILOVEYOU!
+6
+dreamstime.com
+ID91124077-Danalto

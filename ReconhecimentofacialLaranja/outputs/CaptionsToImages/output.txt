@@ -1,0 +1,5 @@
+Os Atriutos detectados na Imagem (image02.jpg) do cachorro comendo
+ração na vazilha resultado na seguinte legenda:
+
+
+A dog eating from a bowl

@@ -1,0 +1,19 @@
+Atributos detectados para Image01, um grupo de pessoas
+posando para foto, obteve o seguinto ouput:
+
+Face #1
+Face mask: no
+Face #2
+Face mask: no
+Face #3
+Face mask: no
+Face #4
+Face mask: no
+Face #5
+Face mask: no
+Face #6
+Face mask: no
+Face #7
+Face mask: no
+Face #8
+Face mask: no
