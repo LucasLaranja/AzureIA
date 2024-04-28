@@ -1,0 +1,16 @@
+Claro! A **Inteligência Artificial Generativa (IA generativa)** é uma categoria de modelos e ferramentas de IA projetadas para **criar novos conteúdos**. Isso pode incluir **textos, imagens, vídeos, músicas ou até mesmo código**.
+
+Aqui está uma explicação simples:
+
+1. A IA generativa usa **técnicas avançadas**, como **redes neurais** e **algoritmos de aprendizado profundo**, para **identificar padrões** em dados existentes.
+2. Com base nesses padrões, ela **gera novos resultados** que não foram vistos antes.
+3. Por exemplo, imagine um programa de computador que pode criar **poesias**, **músicas** ou **imagens** originais com base em exemplos que já existem.
+
+Em resumo, a IA generativa é como uma máquina criativa que pode inventar coisas novas a partir do que já conhece. É uma área emocionante da inteligência artificial que está sendo usada em muitos campos, desde a criação de arte até a descoberta de medicamentos! 🌟🤖
+
+Origem: conversa com o Bing, 16/02/2024
+(1) O que é IA generativa? — Explicação da inteligência artificial .... https://aws.amazon.com/pt/what-is/generative-ai/.
+(2) Guia Completo Sobre Inteligência Artificial Generativa. https://bing.com/search?q=ia+generativa+explica%c3%a7%c3%a3o+simples.
+(3) Guia Completo Sobre Inteligência Artificial Generativa. https://blog.dsacademy.com.br/guia-completo-sobre-inteligencia-artificial-generativa/.
+(4) O que é IA Generativa? | Salesforce. https://www.salesforce.com/br/blog/ia-generativa/.
+(5) O que é IA generativa? Como funciona? | Oracle Brasil. https://www.oracle.com/br/artificial-intelligence/generative-ai/what-is-generative-ai/.
